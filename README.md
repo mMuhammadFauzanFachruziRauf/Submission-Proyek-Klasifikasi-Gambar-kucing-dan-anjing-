@@ -9,3 +9,4 @@ Model telah dilatih pada dataset publik yang diambil dari Kaggle dan kemudian di
 
 ---
 
+Link Dataset : *https://www.kaggle.com/datasets/ashfakyeafi/cat-dog-images-for-classification?resource=download*
